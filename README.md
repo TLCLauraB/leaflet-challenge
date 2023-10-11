@@ -21,7 +21,7 @@ In this challenge, I have been tasked with developing a way to visualize USGS da
 # Overview
 I received help and support from my fellow Data Viz classmates during class time, through Slack, and via our Discord server. I regularly attended both the before and after-class office hours.
 
-I reviewed Monday, October 2, 2023 class recording titled "Data Visualization with Leaflet" to refresh myself on how to create tile layer to apply the USGS data.
+I reviewed the Monday, October 2, 2023 class recording titled "Data Visualization with Leaflet" to refresh myself on how to create tile layer to apply the USGS data.
 
 
 
