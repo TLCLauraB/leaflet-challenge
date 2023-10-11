@@ -23,7 +23,9 @@ I received help and support from my fellow Data Viz classmates during class time
 
 I reviewed the Monday, October 2, 2023 class recording titled "Data Visualization with Leaflet" to refresh myself on how to create tile layer to apply the USGS data.
 
-I used the [ANSS Comprehensive Earthquake Catalog (ComCat) Documentation](https://earthquake.usgs.gov/data/comcat/index.php) to pull apart the USGS results. However, it was the homework assignment that gave me the clue I was looking for: 'Hint: The depth of the earth can be found as the third coordinate for each earthquake.'
+I used the [ANSS Comprehensive Earthquake Catalog (ComCat) Documentation](https://earthquake.usgs.gov/data/comcat/index.php) to pull apart the USGS results. However, it was the homework assignment that gave me the clue I was looking for: **Hint:** The depth of the earth can be found as the third coordinate for each earthquake. 
+
+I spent longer than I care to admit looking for the depth event term.
 
 EXAMPLE OF DATA FROM UNITED STATES GEOLOGICAL SURVEY EARTHQUAKE HAZARD API:
 ```
