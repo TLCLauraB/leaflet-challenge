@@ -14,7 +14,7 @@ The USGS defines "significant" as:
 <img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image4.png">
 Source: [USGS > Earthquake Hazards Program > Significant Earthquakes](https://earthquake.usgs.gov/earthquakes/browse/significant.php#sigdef)
 
-Understanding the data is updated every 30 seconds, I downloaded the geoJSON data into a file as backup.
+Understanding the data is updated every 30 seconds, I downloaded the geoJSON data into a file as backup and reference.
 
 <img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image2-20231011.png">
 
