@@ -16,6 +16,8 @@ Understanding the data is updated every 30 seconds, I downloaded the geoJSON dat
 
 In this challenge, I have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding!) on issues facing our planet.
 
+<img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image3-20231011.png">
+
 # Overview
 I received help and support from my fellow Data Viz classmates during class time, through Slack, and via our Discord server. I regularly attended both the before and after-class office hours.
 
@@ -28,4 +30,4 @@ I reviewed Monday, October 2, 2023 class recording titled "Data Visualization wi
   * https://leafletjs.com/examples/quick-start/
   * https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
   * https://geojson.org/
-  * 
+
