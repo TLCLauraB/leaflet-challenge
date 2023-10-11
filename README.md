@@ -8,11 +8,11 @@ Using data collected by the [United States Geological Survey](https://www.usgs.g
 
 I used data collected in the last 30 days as of October 11, 2023.
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image1-20231011.png">
+<img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image1-20231011.png">
 
 Understanding the data is updated every 30 seconds, I downloaded the geoJSON data into a file as backup.
 
-<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image2-20231011.png">
+<img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image2-20231011.png">
 
 In this challenge, I have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding!) on issues facing our planet.
 
