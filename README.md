@@ -72,8 +72,12 @@ EXAMPLE OF DATA FROM UNITED STATES GEOLOGICAL SURVEY EARTHQUAKE HAZARD API:
 ```
 
 ## Part 1: Create the Earthquake Visualization
+Classmates Brian Kath and Angel Lee helped me with the Map's Legend.</br>
+
 The result index page can be found here: [https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/index.html](https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/index.html)</br>
+
 Part 1 can be found here: [https://github.com/TLCLauraB/leaflet-challenge/tree/main/Leaflet-Part-1](https://github.com/TLCLauraB/leaflet-challenge/tree/main/Leaflet-Part-1) </br>
+
 The 'logic.js' file provided by the Starter Code can be found here: [https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js](https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js)
 
 ## Part 2: Gather and Plot More Data
