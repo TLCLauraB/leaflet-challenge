@@ -30,4 +30,5 @@ I reviewed Monday, October 2, 2023 class recording titled "Data Visualization wi
   * https://leafletjs.com/examples/quick-start/
   * https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
   * https://geojson.org/
+  * https://www.openstreetmap.org/#map=4/25.48/-93.34
 
