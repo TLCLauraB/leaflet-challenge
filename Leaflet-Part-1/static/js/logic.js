@@ -42,7 +42,7 @@ fetch(earthquakeDataUrl)
             onEachFeature: function (feature, layer) {
                 const location = feature.properties.place;
                 layer.bindPopup(
-                    "Location: " + location + "<br>Magnitude: " + feature.properties.mag + "<br>Depth: " + feature.geometry.coordinates[2] + " km"
+                    "<h4>Location: </h4>" + location + "<br><h4>Magnitude: </h4>" + feature.properties.mag + "<br><h4>Depth: </h4>" + feature.geometry.coordinates[2] + " km"
                 );
             },
         }).addTo(myMap);
@@ -56,11 +56,19 @@ legend.onAdd = function (map) {
     let depthRanges = ["<70 km", "70-300 km", "≥300 km"];
     let colors = ["green", "orange", "red"];
 
-    // Add a border to the legend using inline HTML styles
+    // Add a title to the legend
+    div.innerHTML += '<h4>Earthquake Depth</h4>';
+
+    // Set border style
     div.style.border = "2px solid #000";
 
     for (let i = 0; i < depthRanges.length; i++) {
-        div.innerHTML += '<i style="background:' + colors[i] + '"></i> ' + depthRanges[i] + "<br>";
+        div.innerHTML += `
+            <div class="legend-item">
+                <span class="legend-bar" style="background:${colors[i]}"></span>
+                <span>${depthRanges[i]}</span>
+            </div>
+        `;
     }
     return div;
 };
