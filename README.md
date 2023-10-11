@@ -6,9 +6,13 @@
 # Introduction
 Using data collected by the [United States Geological Survey](https://www.usgs.gov/programs/earthquake-hazards), I used Python, JavaScript, and LeafletJS to create an 'Earthquake Visualization' website. The HTML and CSS were provided by edX Boot Camps LLC, but I created the JSON file to run the website.
 
-I used data collected in the last 30 days as of October 11, 2023.
+I used data collected in the last 30 days of 'Significant Earthquakes' as of October 11, 2023.
 
 <img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image1-20231011.png">
+
+The USGS defines "significant" as: 
+<img src="https://github.com/TLCLauraB/leaflet-challenge/blob/main/images/image4.png">
+Source: [USGS > Earthquake Hazards Program > Significant Earthquakes](https://earthquake.usgs.gov/earthquakes/browse/significant.php#sigdef)
 
 Understanding the data is updated every 30 seconds, I downloaded the geoJSON data into a file as backup.
 
