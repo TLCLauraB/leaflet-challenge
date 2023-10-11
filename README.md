@@ -4,12 +4,22 @@
 **Author:** Laura Bishop (TLCLauraB) </br>
 
 # Introduction
+Using data collected by the [United States Geological Survey](https://www.usgs.gov/programs/earthquake-hazards), I used Python, JavaScript, and LeafletJS to create an 'Earthquake Visualization' website. The HTML and CSS were provided by edX Boot Camps LLC, but I created the JSON file to run the website.
 
-Using data collected by the Public Science Lab, I created a dashboard based on their [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/). For the purposes of this assignment, I used a [static set of data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) provided by Bootcamp.
+I used data collected in the last 30 days as of October 11, 2023.
 
-In total, three graphs were created -- a Bar and Bubble Chart to display the type of microbial species found in the sampling and its density, and a Gauge Chart to plot the weekly washing frequency of the individual.  There was also a Metadata display on the individual profile, and a dropdown menu to change individual profiles. I used the 'Viridis' colorset.
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image1-20231011.png">
 
-The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
+Understanding the data is updated every 30 seconds, I downloaded the geoJSON data into a file as backup.
+
+<img src="https://github.com/TLCLauraB/belly-button-challenge/blob/main/images/image2-20231011.png">
+
+In this challenge, I have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding!) on issues facing our planet.
+
+# Overview
+I received help and support from my fellow Data Viz classmates during class time, through Slack, and via our Discord server. I regularly attended both the before and after-class office hours.
+
+I reviewed Monday, October 2, 2023 class recording titled "Data Visualization with Leaflet" to refresh myself on how to create tile layer to apply the USGS data.
 
 
 
