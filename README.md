@@ -25,7 +25,7 @@ I reviewed the Monday, October 2, 2023 class recording titled "Data Visualizatio
 
 I used the [ANSS Comprehensive Earthquake Catalog (ComCat) Documentation](https://earthquake.usgs.gov/data/comcat/index.php) to pull apart the USGS results. However, it was the homework assignment that gave me the clue I was looking for: 'Hint: The depth of the earth can be found as the third coordinate for each earthquake.'
 
-EXAMPLE OF DATA:
+EXAMPLE OF DATA FROM UNITED STATES GEOLOGICAL SURVEY EARTHQUAKE HAZARD API:
 ```{
     "type": "Feature",
     "properties": {
@@ -61,8 +61,7 @@ EXAMPLE OF DATA:
         "coordinates": [125.2312, 26.5312, 176]
     },
     "id": "us7000kwg2"
-}
-```
+}```
 
 ## Part 1: Create the Earthquake Visualization
 Part 1 can be found [here](https://github.com/TLCLauraB/leaflet-challenge/tree/main/Leaflet-Part-1), with the 'logic.js' file provided by the Starter Code found [here](https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js).
