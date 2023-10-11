@@ -23,6 +23,12 @@ I received help and support from my fellow Data Viz classmates during class time
 
 I reviewed the Monday, October 2, 2023 class recording titled "Data Visualization with Leaflet" to refresh myself on how to create tile layer to apply the USGS data.
 
+## Part 1: Create the Earthquake Visualization
+Part 1 can be found [here](https://github.com/TLCLauraB/leaflet-challenge/tree/main/Leaflet-Part-1), with the 'logic.js' file provided by the Starter Code found [here](https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js).
+
+## Part 2: Gather and Plot More Data
+TBD
+
 
 
 # Documentation & Resources
