@@ -80,11 +80,6 @@ Part 1 can be found here: [https://github.com/TLCLauraB/leaflet-challenge/tree/m
 
 The 'logic.js' file provided by the Starter Code can be found here: [https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js](https://github.com/TLCLauraB/leaflet-challenge/blob/main/Leaflet-Part-1/static/js/logic.js)
 
-## Part 2: Gather and Plot More Data
-TBD
-
-
-
 # Documentation & Resources
   * https://leafletjs.com/examples.html
   * https://leafletjs.com/examples/quick-start/
