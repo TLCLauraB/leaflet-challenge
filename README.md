@@ -3,6 +3,8 @@
 **Homework Repo for Challenge 15** </br>
 **Author:** Laura Bishop (TLCLauraB) </br>
 
+**URL:** https://tlclaurab.github.io/leaflet-challenge/
+
 # Introduction
 Using data collected by the [United States Geological Survey](https://www.usgs.gov/programs/earthquake-hazards), I used Python, JavaScript, and LeafletJS to create an 'Earthquake Visualization' website. The HTML and CSS were provided by edX Boot Camps LLC, but I created the JSON file to run the website.
 
