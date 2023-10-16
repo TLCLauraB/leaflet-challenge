@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+
+/* Inline CSS for the legend-bar class */
+.legend-bar {
+  display: inline-block;
+  width: 20px; 
+  height: 10px; 
+  margin-right: 5px;
+}
